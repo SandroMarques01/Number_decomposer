@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Number_decomposer/1.0.0": {
+        "dependencies": {
+          "Number_decomposer_service": "1.0.0"
+        },
+        "runtime": {
+          "Number_decomposer.dll": {}
+        }
+      },
+      "Number_decomposer_service/1.0.0": {
+        "runtime": {
+          "Number_decomposer_service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Number_decomposer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Number_decomposer_service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

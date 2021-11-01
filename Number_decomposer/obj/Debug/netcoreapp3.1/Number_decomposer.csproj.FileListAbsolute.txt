@@ -1,0 +1,16 @@
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.AssemblyInfo.cs
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.exe
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.deps.json
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.runtimeconfig.json
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.runtimeconfig.dev.json
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.dll
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer.pdb
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer_service.dll
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\bin\Debug\netcoreapp3.1\Number_decomposer_service.pdb
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.csproj.CopyComplete
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.dll
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.pdb
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer\obj\Debug\netcoreapp3.1\Number_decomposer.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\bin\Debug\netstandard2.0\Number_decomposer_service.deps.json
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\bin\Debug\netstandard2.0\Number_decomposer_service.dll
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\bin\Debug\netstandard2.0\Number_decomposer_service.pdb
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.AssemblyInfoInputs.cache
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.AssemblyInfo.cs
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.dll
+C:\Users\sandr\source\repos\Number_decomposer\Number_decomposer_service\obj\Debug\netstandard2.0\Number_decomposer_service.pdb

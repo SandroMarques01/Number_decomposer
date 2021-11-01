@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WH9SxrwQxwsaqKmnYquK1vrGyrqbRsjZx20NSSV81bul+2MUiFTKpDPFl0CPrNAZsmQBQINMFNpc0AkrlLPzfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandr\\source\\repos\\Number_decomposer\\Number_decomposer_service\\Number_decomposer_service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sandr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
